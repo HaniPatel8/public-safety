@@ -1,3 +1,6 @@
 # public-safety
 
-Public safety crime prediction model Using AWS
+Public safety crime prediction model using AWS
+ -- Linear Learning Algorithem 
+ -- Python
+  --Pnadas, Matplotlib
